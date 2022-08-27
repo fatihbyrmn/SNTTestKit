@@ -1,0 +1,11 @@
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Change Net Color : Old Net Color=RGB(208, 52, 158) New Net Color=Default
+Added Member To Class: ClassName=TestKitSch Member=Component D30 RED
+Added Member To Class: ClassName=TestKitSch Member=Component JP15 HDR
+Added Member To Class: ClassName=TestKitSch Member=Component JP16 HDR
+Added Member To Class: ClassName=TestKitSch Member=Component U6 LM1458MX/NOPB
+Added Member To Class: ClassName=TestKitSch Member=Component U7 LM1458MX/NOPB
+Added Member To Class: ClassName=TestKitSch Member=Component U8 LM1458MX/NOPB
+Added Member To Class: ClassName=TestKitSch Member=Component U9 LM1458MX/NOPB
+Added Member To Class: ClassName=TestKitSch Member=Component U10 LM1458MX/NOPB

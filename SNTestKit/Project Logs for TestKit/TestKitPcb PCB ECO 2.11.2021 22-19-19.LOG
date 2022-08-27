@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Net Color : Old Net Color=RGB(247, 238, 152) New Net Color=Default
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Added Member To Class: ClassName=TestKitSch Member=Component D30 RED
+Added Member To Class: ClassName=TestKitSch Member=Component R3 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R6 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R10 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R13 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R14 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R16 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R17 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R19 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R24 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R26 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R28 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R29 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R30 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R31 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R32 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R33 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R35 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R37 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R39 680R
+Added Member To Class: ClassName=TestKitSch Member=Component R40 680R
+Added Room: Name=TestKitSch

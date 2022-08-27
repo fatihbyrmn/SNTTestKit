@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=JP13 NewDesignator=JP15
+Change Component Designator: OldDesignator=JP14 NewDesignator=JP16
+Change Component Designator: OldDesignator=JP15 NewDesignator=JP13
+Change Component Designator: OldDesignator=JP16 NewDesignator=JP14
+Change Net Name : Old Net Name=NetJP13_1 New Net Name=NetJP15_1
+Change Net Name : Old Net Name=NetJP14_1 New Net Name=NetJP16_1
+Change Net Name : Old Net Name=NetJP15_1 New Net Name=NetJP13_1
+Change Net Name : Old Net Name=NetJP16_1 New Net Name=NetJP14_1
+Added Member To Class: ClassName=TestKitSch Member=Component D30 RED

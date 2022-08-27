@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=D5 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D6 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D7 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D8 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D13 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D14 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D15 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D16 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D19 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D20 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D23 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D24 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D29 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D30 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D31 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D32 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D37 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D38 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D39 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Change Component Footprint: Designator=D40 Old Footprint=2835-LED RED New Footprint=2835_LED_RED
+Added Room: Name=TestKitSch
